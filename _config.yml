@@ -28,7 +28,7 @@ twitter_username: phantomthief_s
 github_username:  sml8414
 
 # Build settings
-theme: jekyll-theme-leap-day
+theme: leap-day
 plugins:
   - jekyll-feed
 
