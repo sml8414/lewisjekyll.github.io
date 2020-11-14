@@ -28,7 +28,7 @@ twitter_username: phantomthief_s
 github_username:  sml8414
 
 # Build settings
-theme: jekyll-theme-merlot
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
   - jekyll-include-cache
