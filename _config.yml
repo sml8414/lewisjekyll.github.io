@@ -28,7 +28,7 @@ twitter_username: phantomthief_s
 github_username:  sml8414
 
 # Build settings
-theme: minima
+remote_theme: wowthemesnet/mundana-theme-jekyll
 plugins:
   - jekyll-feed
 
